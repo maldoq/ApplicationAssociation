@@ -1,3 +1,5 @@
+Bienvenue sur mon projet Application Association
+Voici les différents liens pour mon projet et pour les autres livrables, vous pouvez les obtenir dans le dossier application
 
 voici le lien de mon tableau kanban:
 https://trello.com/invite/b/zRTwVl7q/ATTI7f42e33f33a9d31d2169d8e5c13c63e7293EA68A/application-association
